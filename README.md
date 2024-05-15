@@ -1,4 +1,4 @@
-# Friday Night Funkin' to Codename Engine Converter
+# Friday Night Funkin' to Codename Engine Chart Converter
 A Python script that's able to convert the current Friday Night Funkin' charts into Codename Engine charts.
 
 # How to Use
